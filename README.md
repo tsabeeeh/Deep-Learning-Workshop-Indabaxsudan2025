@@ -22,6 +22,9 @@ Logistic Regression (a single neuron).
 Shallow Neural Networks.
 Understanding Forward Propagation, Backward Propagation (Gradients), and Gradient Descent.
 Practical implementation using the make_moons dataset.
+4. Using Keras and TensorFlow: Building and training neural networks using Keras and TensorFlow, including practical examples for deep learning applications
+5. Practical Applications: Applying deep learning to real-world problems such as image classification and regression.
+6.  Common Pitfalls: Understanding the challenges in training deep learning models and how to avoid overfitting, vanishing gradients, and other issues.
 
 ### Getting Started
 Clone the repository:
