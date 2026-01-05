@@ -33,12 +33,13 @@ https://colab.research.google.com/drive/1XylXx5dwf44d_DTzOtRBL81-5ORw7pfd?usp=sh
 
 ### Acknowledgments
 This workshop was part of Indabaxsudan 2025 and was created by:
-Tsabeeh Hamed
 
-Al-Hassen Sabeeh
+🔺Tsabeeh Hamed
 
-Ibraheem Al-Hafiz
+🔺Al-Hassen Sabeeh
 
-Rama Abdelgadir
+🔺Ibraheem Al-Hafiz
+
+🔺Rama Abdelgadir
 
 Special thanks to the participants who made this workshop a success!
