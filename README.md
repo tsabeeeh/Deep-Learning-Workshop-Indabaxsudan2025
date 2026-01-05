@@ -27,19 +27,18 @@ Practical implementation using the make_moons dataset.
 Clone the repository:
 Bash
 git clone https://github.com/tsabeeeh/Deep-Learning-Workshop-Indabaxsudan2025.git
-Install dependencies:
-Bash
-pip install -r requirements.txt
-Run the notebook:
-Bash
-jupyter notebook Intro_to_Deep_Learning.ipynb
+
 Alternatively, you can run the notebook directly on Google Colab by clicking the link below:
 https://colab.research.google.com/drive/1XylXx5dwf44d_DTzOtRBL81-5ORw7pfd?usp=sharing
 
 ### Acknowledgments
 This workshop was part of Indabaxsudan 2025 and was created by:
 Tsabeeh Hamed
+
 Al-Hassen Sabeeh
+
 Ibraheem Al-Hafiz
+
 Rama Abdelgadir
+
 Special thanks to the participants who made this workshop a success!
